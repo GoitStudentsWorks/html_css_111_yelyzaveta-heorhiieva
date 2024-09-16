@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/lords-of-markup/",
+    "build": "vite build --base=/html_css_111_yelyzaveta-heorhiieva/",
     "preview": "vite preview"
   },
   "devDependencies": {
